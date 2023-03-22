@@ -1,0 +1,17 @@
+{
+  "name": "unisttestsjest",
+  "version": "1.0.0",
+  "main": "desafio1.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
